@@ -1,0 +1,6 @@
+MIDlet-Name: TazBot
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: FIRST
+MIDlet-1: TazBot, , com.team3925.tazbot.TazBot
+MicroEdition-Profile: IMP-1.0
+MicroEdition-Configuration: CLDC-1.1
